@@ -1,2 +1,2 @@
-# trajectory-of-bird-and-arrays
-in this class we learned to make trajectory and arrays
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
